@@ -1,7 +1,7 @@
 # Trabalho Prático de Grupo - Dados e Aprendizagem Automática
 
 ## Objetivos de Aprendizagem
-Este trabalho tem como objetivo desenvolver um projeto de Machine Learning para prever a quantidade de energia elétrica gerada por painéis solares, utilizando diversos modelos de aprendizagem.
+Este trabalho tem como objetivo desenvolver um projeto de Machine Learning para prever a quantidade de energia elétrica gerada por painéis solares, utilizando diversos modelos de aprendizagem, e outro projeto de Machine Learning em que o grupo escolhe o dataset a a analisar.
 
 ### Tarefa 1: Dataset Grupo
 - Consultar, analisar e selecionar um dataset de fontes como Google Dataset Search ou Kaggle.
