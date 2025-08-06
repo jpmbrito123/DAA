@@ -1,19 +1,50 @@
 # Group Project - Dados e Aprendizagem Automática
 
-## Objetivos de Aprendizagem
-Este trabalho tem como objetivo desenvolver um projeto de Machine Learning para prever a quantidade de energia elétrica gerada por painéis solares, utilizando diversos modelos de aprendizagem, e outro projeto de Machine Learning em que o grupo escolhe o dataset a a analisar.
 
-### Tarefa 1: Dataset Grupo
-- Consultar, analisar e selecionar um dataset de fontes como Google Dataset Search ou Kaggle.
-- Explorar e preparar o dataset, extraindo conhecimento relevante.
-- Conceber e otimizar múltiplos modelos de Machine Learning.
-- Analisar criticamente os resultados obtidos.
+## Overview
+This project consists of two main tasks involving the application of Machine Learning (ML) techniques to real-world datasets. In the first task, we predict solar energy generation using historical weather data. In the second, we participate in a Kaggle competition by building ML models to solve a data challenge proposed by the course.
 
-### Tarefa 2: Dataset Competição
-- Trabalhar com o dataset da competição disponível em [Kaggle](https://www.kaggle.com/c/daasbstp2023).
-- Formar uma equipa no Kaggle e inscrever-se na competição.
-- Explorar e preparar o dataset da competição.
-- Conceber e otimizar modelos de Machine Learning para o dataset da competição.
-- Submeter os resultados na plataforma Kaggle e analisar a accuracy do modelo.
-- Interpretar e discutir os resultados obtidos.
+Both tasks involve dataset exploration, preprocessing, model training, and performance evaluation.
+
+---
+
+## Objectives
+
+- Apply key concepts of supervised learning.
+- Evaluate and compare different ML models.
+- Use Python and ML libraries (e.g., Scikit-learn, Pandas, NumPy) to build and train models.
+- Understand data preprocessing, feature engineering, and hyperparameter tuning.
+- Interpret and communicate model performance using appropriate metrics.
+
+---
+
+## Task 1: Custom Dataset – Solar Energy Prediction
+
+- Researched and selected a publicly available dataset related to solar energy production.
+- Preprocessed and analyzed the data to identify relevant features.
+- Trained and compared several models including Linear Regression, Random Forest, and Gradient Boosting.
+- Evaluated model performance using metrics such as MAE, RMSE, and R².
+
+### Tools & Techniques
+- Python (Jupyter Notebooks)
+- Pandas, NumPy for data manipulation
+- Scikit-learn for ML models
+- Matplotlib / Seaborn for visualization
+
+---
+
+## Task 2: Competition Dataset – Kaggle Challenge
+
+- Participated in the Kaggle competition: [daasbstp2023](https://www.kaggle.com/c/daasbstp2023).
+- Explored and cleaned the competition dataset.
+- Built and fine-tuned several ML models to maximize predictive accuracy.
+- Submitted results to Kaggle and tracked performance on the public leaderboard.
+
+### Highlights
+- Implemented cross-validation and grid search for model selection.
+- Dealt with missing data, outliers, and feature scaling.
+- Analyzed feature importance and model generalization.
+
+---
+
 
